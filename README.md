@@ -23,5 +23,5 @@ In this project, we implemented the Tic Tac Toe Multiplayer game using JavaScrip
 
 # Socials
 
-![Facebook Badge](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl0DmGuWkpN3Keq5IImsEwOC6AjpZRTljRhA&s )
+
 ![Twitter Badge](https://img.shields.io/badge/Twitter-white?style=for-the-badge&labelColor=black&logo=X&logoColor=white)
